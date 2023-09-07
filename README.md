@@ -7,7 +7,7 @@ This C program is a simple utility that prompts the user to enter an ASCII print
 In this recitation assignment, we were tasked with creating a complete C program that performs the following tasks:
 
 1. Prompt the user to enter a printable ASCII character.
-2. Read in the user's response and store it as an unsigned char.
+2. Read the user's response and store it as an unsigned char.
 3. Display the decimal and hexadecimal representations of the entered character.
 4. Calculate and display the 8-bit binary representation of the character using bitwise operators.
 
@@ -27,4 +27,3 @@ bin -- 01000001
 
 - The program was created as a part of a recitation assignment in [Principles of Systems Programming/CSCE3600].
 
-```
