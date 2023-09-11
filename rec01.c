@@ -21,4 +21,11 @@ int main() {
   printf ("Enter an ASCII character: ");
   scanf ("%c", &input_char);
   
+  //Print decimal, hexadecimal, and binary representations
+  printf ("The ASCII value of %c is:\n", input_char);
+  printf ("dec -- %d\n", input_char);
+  printf ("hex -- %x\n", input_char);
+
+  printf ("bin -- ");
+  
 }
